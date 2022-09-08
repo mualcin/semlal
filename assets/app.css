@@ -67,5 +67,6 @@ body {
 }
 
 iframe {
-  max-width: max-content;
+  max-width: 1000px;
+  width: 100vw;
 }
