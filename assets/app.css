@@ -44,11 +44,19 @@
   max-height: 400px;
 }
 
+.sub-title {
+  border-bottom: 1px solid black;
+}
+
 .tuanbia {
   max-width: 1000px;
 }
 
-.tuanbia h2,
+.tuanbia h3,
 .tuanbia p {
   font-family: 'Libre Baskerville', serif
+}
+
+iframe {
+  max-width: max-content;
 }
