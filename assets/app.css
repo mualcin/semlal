@@ -6,8 +6,8 @@
   font-family: 'Arizonia', cursive;
 }
 
-.font-open {
-  font-family: 'Open Sans', sans-serif;
+.font-libre {
+  font-family: 'Libre Baskerville', serif;
 }
 
 .font-1p5rem {
@@ -35,11 +35,20 @@
 }
 
 .pasem-min {
-  background: -webkit-linear-gradient(#f00, #5b5b5b, #54e);
+  background: -webkit-linear-gradient(#000, #009dff, #fe0000);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .pasem-hmanthlak img {
   max-height: 400px;
+}
+
+.tuanbia {
+  max-width: 1000px;
+}
+
+.tuanbia h2,
+.tuanbia p {
+  font-family: 'Libre Baskerville', serif
 }
