@@ -71,3 +71,12 @@ iframe {
   max-width: 1000px;
   width: 100vw;
 }
+
+.caan {
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.caan-tlaitu {
+  font-weight: bold;
+}
